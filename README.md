@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Technology
 
-Consumer Internet Product Guy, 
+Consumer Internet Product Guy,   
 Mainly insterested in these topics :
 
 - [React] - Making Single Page Web Application
