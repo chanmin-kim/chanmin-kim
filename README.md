@@ -26,7 +26,7 @@ Mainly insterested in these topics :
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundalmental Node.js Web Framework
 - [NestJS] - Additioanl Node.js Web Framework
-- [Echo] - Golang Web Framework with Extentional Productivity
+- [Echo] - Golang Web Framework with Extensional Productivity
 - [Django] - Fundalmental Python Web Framework 
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
