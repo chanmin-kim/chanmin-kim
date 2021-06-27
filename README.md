@@ -31,3 +31,16 @@ Mainly insterested in these topics :
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
 - [Go] - Futuristic C++ Language with Extensive Usages
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+  
+   [React]: <https://ko.reactjs.org/>
+   [GraphQL]: <https://graphql.org/>
+   [Express]: <https://expressjs.com/ko/>
+   [NestJS]: <https://nestjs.com/>
+   [Echo]: <https://echo.labstack.com/>
+   [Django]: <https://www.djangoproject.com/>
+   [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
+   [TypeScript]: <https://www.typescriptlang.org/>
+   [Go]: <https://golang.org/>
