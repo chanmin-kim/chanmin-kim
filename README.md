@@ -37,8 +37,8 @@ Mainly insterested in these topics :
 
 - [RN Weather App]
 - [Flask Todo App]
-- [React Firebase Linkedin Clone]
-- [Flask MongoDB K-League Schedule]  
+- [Linkedin Clone]
+- [K-League Schedule] 
 - [Spootify]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -55,6 +55,6 @@ Mainly insterested in these topics :
    [Go]: <https://golang.org/>
    [RN Weather App]: <https://freedman.tistory.com/category/Projects/RN%20%EC%9C%84%EC%B9%98%20%EA%B8%B0%EB%B0%98%20%EB%82%A0%EC%94%A8%EC%95%B1>
    [Flask Todo App]: <https://freedman.tistory.com/category/Projects/Flask%20%ED%95%A0%EC%9D%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8>
-   [React Firebase Linkedin Clone]: <https://freedman.tistory.com/category/Projects/React%20%2B%20Firebase%20%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8%20%ED%81%B4%EB%A1%A0>
-   [Flask MongoDB K-League Schedule]: <https://freedman.tistory.com/category/Projects/Flask%20%2B%20MongoDB%20K%EB%A6%AC%EA%B7%B8%20%EC%9D%BC%EC%A0%95%EC%84%9C%EB%B9%84%EC%8A%A4>
+   [Linkedin Clone]: <https://freedman.tistory.com/category/Projects/React%20%2B%20Firebase%20%EB%A7%81%ED%81%AC%EB%93%9C%EC%9D%B8%20%ED%81%B4%EB%A1%A0>
+   [K-League Schedule]: <https://freedman.tistory.com/category/Projects/Flask%20%2B%20MongoDB%20K%EB%A6%AC%EA%B7%B8%20%EC%9D%BC%EC%A0%95%EC%84%9C%EB%B9%84%EC%8A%A4>
    [Spootify]: <https://freedman.tistory.com/category/Projects/Express%20%2B%20MongoDB%20Spootify>
