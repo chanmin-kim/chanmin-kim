@@ -26,7 +26,6 @@ Mainly insterested in these topics :
 - [React] - Making Single Page Web Application
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundamental Node.js Web Framework
-- [NestJS] - Additional Node.js Web Framework for Structural Modeling
 - [Echo] - Golang Web Framework with Extensional Productivity
 - [Django] - Fundamental Python Web Framework for ORM
 - [PWA] - Advanced Web Techonology for Mobile Devices
