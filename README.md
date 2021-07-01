@@ -29,7 +29,7 @@ Mainly insterested in these topics :
 - [Django] - Fundamental Python Web Framework for ORM
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
-- [Python] - High Level Language Useful for Web Dev, ML
+- [Python] - High Level Language Useful for Structural Modeling
 
 ## Projects
 
