@@ -26,11 +26,10 @@ Mainly insterested in these topics :
 - [React] - Making Single Page Web Application
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundamental Node.js Web Framework
-- [Echo] - Golang Web Framework with Extensional Productivity
 - [Django] - Fundamental Python Web Framework for ORM
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
-- [Go] - Futuristic C++ Language with Extensive Usages  
+- [Python] - High Level Language Useful for Web, Batch Processing
 
 ## Projects
 
@@ -51,7 +50,7 @@ Mainly insterested in these topics :
    [Django]: <https://www.djangoproject.com/>
    [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
    [TypeScript]: <https://www.typescriptlang.org/>
-   [Go]: <https://golang.org/>
+   [Python]: <https://www.python.org/>
  
 <!-- projects -->
    [RN Weather App]: <https://github.com/chanmin-kim/rn-expo-weather>
