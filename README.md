@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)  
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+- [Blog]
+- [Portfolio]
 
 ## Technology
 
@@ -40,6 +42,10 @@ Mainly insterested in these topics :
 - [Spootify]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+<!-- Blog, Portfolio -->
+   [Blog] : <https://freedman.tistory.com/>
+   [Portfolio] : <https://chanmin-kim.github.io/>
 
 <!-- technology -->
    [React]: <https://ko.reactjs.org/>
