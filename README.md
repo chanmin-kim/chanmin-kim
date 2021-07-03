@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-- [GraphQL] - More Front-end Friendly Data Layer
+- [Blog] - More Front-end Friendly Data Layer
+- [Portfolio]
 
 ## Technology
 
@@ -43,9 +44,8 @@ Mainly insterested in these topics :
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-<!-- Blog, Portfolio -->
-   [Blog] : <https://freedman.tistory.com/>
-   [Portfolio] : <https://chanmin-kim.github.io/>
+
+   
 
 <!-- technology -->
    [React]: <https://ko.reactjs.org/>
@@ -57,6 +57,8 @@ Mainly insterested in these topics :
    [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
    [TypeScript]: <https://www.typescriptlang.org/>
    [Python]: <https://www.python.org/>
+   [Blog] : <https://freedman.tistory.com/>
+   [Portfolio] : <https://chanmin-kim.github.io/>
  
 <!-- projects -->
    [RN Weather App]: <https://github.com/chanmin-kim/rn-expo-weather>
