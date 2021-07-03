@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-- [Blog] - More Front-end Friendly Data Layer
-- [Portfolio]
-
 ## Technology
 
 Consumer Internet Product Guy,   
@@ -57,8 +54,7 @@ Mainly insterested in these topics :
    [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
    [TypeScript]: <https://www.typescriptlang.org/>
    [Python]: <https://www.python.org/>
-   [Blog] : <https://freedman.tistory.com/>
-   [Portfolio] : <https://chanmin-kim.github.io/>
+   
  
 <!-- projects -->
    [RN Weather App]: <https://github.com/chanmin-kim/rn-expo-weather>
