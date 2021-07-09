@@ -27,9 +27,11 @@ Mainly insterested in these topics :
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundamental Node.js Web Framework
 - [Django] - Fundamental Python Web Framework for ORM
+- [CMS] - Contents Management System with GNUBoard
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
 - [Python] - High Level Language Useful for Structural Modeling
+- [PHP] - Personal Home Page Tools; Hypertext Preprocessor
 
 ## Projects
 
@@ -38,7 +40,7 @@ Mainly insterested in these topics :
 - [Linkedin Clone]
 - [K-League Schedule] 
 - [Spootify]
-- [LCK Cheerful]
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -52,9 +54,11 @@ Mainly insterested in these topics :
    [NestJS]: <https://nestjs.com/>
    [Echo]: <https://echo.labstack.com/>
    [Django]: <https://www.djangoproject.com/>
+   [CMS]: <https://sir.kr/>
    [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
    [TypeScript]: <https://www.typescriptlang.org/>
    [Python]: <https://www.python.org/>
+   [PHP]: <https://www.php.net/>
    
  
 <!-- projects -->
@@ -63,4 +67,4 @@ Mainly insterested in these topics :
    [Linkedin Clone]: <https://github.com/chanmin-kim/react-firebase-linkedin>
    [K-League Schedule]: <https://github.com/chanmin-kim/flask-mongodb-kleague>
    [Spootify]: <https://github.com/chanmin-kim/spootify>
-   [LCK Cheerful]: <https://github.com/chanmin-kim/lck-cheer>
+
