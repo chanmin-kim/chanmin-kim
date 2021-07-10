@@ -28,7 +28,7 @@ Mainly insterested in these topics :
 - [Express] - Fundamental Node.js Web Framework
 - [Django] - Fundamental Python Web Framework for ORM
 - [PWA] - Advanced Web Techonology for Mobile Devices
-- [TypeScript] - Revised JavaScript for Defining Data Types
+- [TypeScript] - Revised JavaScript for Defining Variable Types
 - [Python] - High Level Language Useful for Structural Modeling  
 
 ## Projects
