@@ -27,11 +27,9 @@ Mainly insterested in these topics :
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundamental Node.js Web Framework
 - [Django] - Fundamental Python Web Framework for ORM
-- [CMS] - Contents Management System with GNUBoard
 - [PWA] - Advanced Web Techonology for Mobile Devices
 - [TypeScript] - Revised JavaScript for Defining Data Types
-- [Python] - High Level Language Useful for Structural Modeling
-- [PHP] - Personal Home Page Tools; Hypertext Preprocessor
+- [Python] - High Level Language Useful for Structural Modeling  
 
 ## Projects
 
