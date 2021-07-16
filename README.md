@@ -24,6 +24,7 @@ Consumer Internet Product Guy,
 Mainly insterested in these topics :
 
 - [React] - Making Single Page Web Application
+- [Redux] - Centralized UI State Management Toolkit
 - [GraphQL] - More Front-end Friendly Data Layer
 - [Express] - Fundamental Node.js Web Framework
 - [Django] - Fundamental Python Web Framework for ORM
@@ -57,6 +58,7 @@ Mainly insterested in these topics :
    [TypeScript]: <https://www.typescriptlang.org/>
    [Python]: <https://www.python.org/>
    [PHP]: <https://www.php.net/>
+   [Redux]: <https://redux.js.org/>
    
  
 <!-- projects -->
