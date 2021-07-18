@@ -25,6 +25,7 @@ Mainly insterested in these topics :
 
 - [SaaS]
 - [EduTech]
+- [AdTech]
 - [Web 4.0]
 
 ## Projects
@@ -42,20 +43,9 @@ Mainly insterested in these topics :
    
 
 <!-- technology -->
-   [React]: <https://ko.reactjs.org/>
-   [GraphQL]: <https://graphql.org/>
-   [Express]: <https://expressjs.com/ko/>
-   [NestJS]: <https://nestjs.com/>
-   [Echo]: <https://echo.labstack.com/>
-   [Django]: <https://www.djangoproject.com/>
-   [CMS]: <https://sir.kr/>
-   [PWA]: <https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/Introduction>
-   [TypeScript]: <https://www.typescriptlang.org/>
-   [Python]: <https://www.python.org/>
-   [PHP]: <https://www.php.net/>
-   [Redux]: <https://redux.js.org/>
    [SaaS]: <https://it.donga.com/25782/>
    [EduTech]: <https://biz.chosun.com/industry/company/2021/05/25/WIO5NFCBJVFI7OCYLK65VZZGZA/>
+   [AdTech]: <https://www.venturesquare.net/825188>
    [Web 4.0]: <https://www.hebergementwebs.com/%EC%83%88%EB%A1%9C%EC%9A%B4/web-1-0-a-web4-a-brief-evolution-the-evolution-of-internet-technologies>
    
  
