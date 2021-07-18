@@ -1,4 +1,4 @@
-# Pedagogist & Programmer 👋
+# Cognitive Scientist & Programmer 👋
 
 <!--
 **chanmin-kim/chanmin-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
