@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Topics  
 
-Mainly insterested in these topics :
+Mainly interested in these topics :
 
 - [SaaS]
 - [EduTech]
