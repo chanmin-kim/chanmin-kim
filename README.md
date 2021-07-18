@@ -25,7 +25,6 @@ Mainly insterested in these topics :
 
 - [SaaS]
 - [EduTech]
-- [AdTech]
 - [Web 4.0]
 
 ## Projects
