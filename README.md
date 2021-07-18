@@ -23,14 +23,9 @@ Here are some ideas to get you started:
 Consumer Internet Product Guy,   
 Mainly insterested in these topics :
 
-- [React] - Making Single Page Web Application
-- [Redux] - Centralized UI State Management Toolkit
-- [GraphQL] - More Front-end Friendly Data Layer
-- [Express] - Fundamental Node.js Web Framework
-- [Django] - Fundamental Python Web Framework for ORM
-- [PWA] - Advanced Web Techonology for Mobile Devices
-- [TypeScript] - Revised JavaScript for Defining Variable Types
-- [Python] - High Level Language Useful for Structural Modeling  
+- [SaaS]
+- [EduTech]
+- [Web 4.0]
 
 ## Projects
 
@@ -59,6 +54,9 @@ Mainly insterested in these topics :
    [Python]: <https://www.python.org/>
    [PHP]: <https://www.php.net/>
    [Redux]: <https://redux.js.org/>
+   [SaaS]: <https://it.donga.com/25782/>
+   [EduTech]: <https://biz.chosun.com/industry/company/2021/05/25/WIO5NFCBJVFI7OCYLK65VZZGZA/>
+   [Web 4.0]: <https://www.hebergementwebs.com/%EC%83%88%EB%A1%9C%EC%9A%B4/web-1-0-a-web4-a-brief-evolution-the-evolution-of-internet-technologies>
    
  
 <!-- projects -->
