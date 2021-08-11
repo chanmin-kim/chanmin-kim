@@ -25,6 +25,7 @@ can't take my eyes off these books :
 - [Hackers & Painters]
 - [Zero to One]
 - [The Ascent of Money]
+- [知的資本論]
 
 ## Projects
 
@@ -60,4 +61,5 @@ practices i did with python, javascript, java :
    [Hackers & Painters]: <http://www.yes24.com/Product/Goods/11775130?OzSrank=1>
    [Zero to One]: <http://www.yes24.com/Product/Goods/15182767>
    [The Ascent of Money]: <http://www.yes24.com/Product/Goods/4156966>
+   [知的資本論]: <http://www.yes24.com/Product/Goods/22862876?OzSrank=1>
 
