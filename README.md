@@ -28,6 +28,7 @@ can't take my eyes off these books :
 - [The Ascent of Money]
 - [知的資本論]
 - [プロになるためのWeb技術入門]
+- [The Art of Java Web Programming]
 
 ## Projects
 
@@ -65,4 +66,5 @@ practices i did with python, javascript, java :
    [The Ascent of Money]: <http://www.yes24.com/Product/Goods/4156966>
    [知的資本論]: <http://www.yes24.com/Product/Goods/22862876?OzSrank=1>
    [プロになるためのWeb技術入門]: <http://www.yes24.com/Product/Goods/6721651?OzSrank=1>
+   [The Art of Java Web Programming]: <http://www.yes24.com/Product/Goods/68371015>
 
