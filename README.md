@@ -27,7 +27,8 @@ can't take my eyes off these books :
 - [Zero to One]
 - [知的資本論]
 - [プロになるためのWeb技術入門]
-- [The Art of Java Web Programming]
+- [자바 웹을 다루는 기술]
+- [미친 SCM이 성공한다]
 
 ## Projects
 
@@ -65,5 +66,6 @@ what i did with python, javascript, java :
    [The Ascent of Money]: <http://www.yes24.com/Product/Goods/4156966>
    [知的資本論]: <http://www.yes24.com/Product/Goods/22862876?OzSrank=1>
    [プロになるためのWeb技術入門]: <http://www.yes24.com/Product/Goods/6721651?OzSrank=1>
-   [The Art of Java Web Programming]: <http://www.yes24.com/Product/Goods/68371015>
+   [자바 웹을 다루는 기술]: <http://www.yes24.com/Product/Goods/68371015>
+   [미친 SCM이 성공한다]: <http://www.yes24.com/Product/Goods/13947344?OzSrank=1>
 
