@@ -32,7 +32,7 @@ can't take my eyes off these books :
 
 ## Projects
 
-practices i did with python, javascript, java :
+what i did with python, javascript, java :
 
 - [RN Weather App]
 - [Flask Todo App]
