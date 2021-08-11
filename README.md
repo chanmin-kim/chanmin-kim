@@ -1,4 +1,4 @@
-# Freedman's Bizarre Adventure 👋
+# Freedman's Bizarre Adventure ⚡
 
 <!--
 **chanmin-kim/chanmin-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
