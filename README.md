@@ -25,7 +25,6 @@ can't take my eyes off these books :
 
 - [Hackers & Painters]
 - [Zero to One]
-- [The Ascent of Money]
 - [知的資本論]
 - [プロになるためのWeb技術入門]
 - [The Art of Java Web Programming]
