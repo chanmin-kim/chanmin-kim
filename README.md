@@ -26,6 +26,7 @@ can't take my eyes off these books :
 - [Zero to One]
 - [The Ascent of Money]
 - [知的資本論]
+- [プロになるためのWeb技術入門]
 
 ## Projects
 
@@ -62,4 +63,5 @@ practices i did with python, javascript, java :
    [Zero to One]: <http://www.yes24.com/Product/Goods/15182767>
    [The Ascent of Money]: <http://www.yes24.com/Product/Goods/4156966>
    [知的資本論]: <http://www.yes24.com/Product/Goods/22862876?OzSrank=1>
+   [プロになるためのWeb技術入門]: <http://www.yes24.com/Product/Goods/6721651?OzSrank=1>
 
