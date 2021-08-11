@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Topics  
+## Books
 
-Mainly interested in these topics :
+can't take my eyes off these books :
 
-- [SaaS]
-- [EduTech]
-- [Web 4.0]
+- [Hackers & Painters]
+- [Zero to One]
+- [The Ascent of Money]
 
 ## Projects
 
@@ -53,4 +53,9 @@ Mainly interested in these topics :
    [Linkedin Clone]: <https://github.com/chanmin-kim/react-firebase-linkedin>
    [K-League Schedule]: <https://github.com/chanmin-kim/flask-mongodb-kleague>
    [Spootify]: <https://github.com/chanmin-kim/spootify>
+
+<!-- books -->
+   [Hackers & Painters]: <http://www.yes24.com/Product/Goods/11775130?OzSrank=1>
+   [Zero to One]: <http://www.yes24.com/Product/Goods/15182767>
+   [The Ascent of Money]: <http://www.yes24.com/Product/Goods/4156966>
 
