@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - [Linkedin Clone]
 - [K-League Schedule] 
 - [Spootify]
-- [Spring Rest]
-- [Spring Thymeleaf]
+- [Spring CRUD]
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -38,8 +37,7 @@ Here are some ideas to get you started:
    [Linkedin Clone]: <https://github.com/chanmin-kim/react-firebase-linkedin>
    [K-League Schedule]: <https://github.com/chanmin-kim/flask-mongodb-kleague>
    [Spootify]: <https://github.com/chanmin-kim/spootify>
-   [Spring Rest]: <https://github.com/chanmin-kim/spring-rest>
-   [Spring Thymeleaf]: <https://github.com/chanmin-kim/spring-thymeleaf>
+   [Spring CRUD]: <https://github.com/chanmin-kim/spring-myhome>
 
 <!-- books -->
    [Hackers & Painters]: <http://www.yes24.com/Product/Goods/11775130?OzSrank=1>
