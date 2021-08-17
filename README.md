@@ -19,20 +19,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Books
-
-can't take my eyes off these books :
-
-- [Hackers & Painters]
-- [Zero to One]
-- [知的資本論]
-- [プロになるためのWeb技術入門]
-- [자바 웹을 다루는 기술]
-- [미친 SCM이 성공한다]
-
-## Projects
-
-what i did with python, javascript, java :
+## What I've Done
 
 - [RN Weather App]
 - [Flask Todo App]
