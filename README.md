@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>
 <a href="https://expressjs.com/ko/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
+<a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/-Socketio-010101?style=flat-square&logo=Socketio&logoColor=white"/></a>
 
 ## What I've Done
 
