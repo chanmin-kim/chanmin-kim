@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Tech
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245B?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
+<a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-React-Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
 
 ## What I've Done
 
