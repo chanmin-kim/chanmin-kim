@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://aws.amazon.com/ko/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc" target="_blank"><img src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <a href="https://circleci.com/" target="_blank"><img src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a href="https://docs.microsoft.com/ko-kr/windows/terminal/get-started" target="_blank"><img src="https://img.shields.io/badge/-WindowsTerminal-4D4D4D?style=flat-square&logo=WindowsTerminal&logoColor=white"/></a>
 
 ## What I've Done
 
