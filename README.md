@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Tech
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-React-Router-CA4245?style=flat-square&logo=React-Router&logoColor=white"/></a>
+<a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next-js-000000?style=flat-square&logo=Next-js&logoColor=white"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Nextjs&logoColor=white"/></a>
 
 ## What I've Done
 
