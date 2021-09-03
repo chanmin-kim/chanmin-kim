@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/-SocketIO-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <a href="https://sequelize.org/" target="_blank"><img src="https://img.shields.io/badge/-SequelizeORM-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
 ## What I've Done
 
