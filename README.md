@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>  
 
-## What I've Done
+## Projects
 
 - [RN Weather App]
 - [Flask Todo App]
