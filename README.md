@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   -->
 
 ## Tech
-<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ## What I've Done
 
