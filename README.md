@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👋
 -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)   -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   -->
 
 ## Tech
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Nextjs&logoColor=white"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
 ## What I've Done
 
