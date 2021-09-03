@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Nextjs&logoColor=white"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>  
 <a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>
 <a href="https://expressjs.com/ko/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
