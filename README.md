@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>  
-<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/></a>
+<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://expressjs.com/ko/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/-SocketIO-010101?style=flat-square&logo=SocketIO&logoColor=white"/></a>
