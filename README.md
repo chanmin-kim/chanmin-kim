@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://docs.microsoft.com/ko-kr/windows/terminal/get-started" target="_blank"><img src="https://img.shields.io/badge/-WindowsTerminal-4D4D4D?style=flat-square&logo=WindowsTerminal&logoColor=white"/></a>
 <a href="https://ubuntu.com/wsl" target="_blank"><img src="https://img.shields.io/badge/-WSL2-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-<a href="https://marketingplatform.google.com/intl/ko/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-GA-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>  
+<a href="https://marketingplatform.google.com/intl/ko/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>  
 
 ## Projects
 
