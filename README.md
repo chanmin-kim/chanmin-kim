@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <a href="https://marketingplatform.google.com/intl/ko/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>  
 
-## Projects
+## Done
 
 - [RN Weather App]
 - [Flask Todo App]
