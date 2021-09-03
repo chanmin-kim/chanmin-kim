@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/-SocketIO-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <a href="https://sequelize.org/" target="_blank"><img src="https://img.shields.io/badge/-SequelizeORM-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
+<a href="https://aws.amazon.com/ko/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc" target="_blank"><img src="https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 
 ## What I've Done
 
