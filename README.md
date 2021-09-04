@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   -->
 
-## Tech
+<!-- ## Tech
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
@@ -40,9 +40,17 @@ Here are some ideas to get you started:
 <a href="https://docs.microsoft.com/ko-kr/windows/terminal/get-started" target="_blank"><img src="https://img.shields.io/badge/-WindowsTerminal-4D4D4D?style=flat-square&logo=WindowsTerminal&logoColor=white"/></a>
 <a href="https://ubuntu.com/wsl" target="_blank"><img src="https://img.shields.io/badge/-WSL2-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
-<a href="https://marketingplatform.google.com/intl/ko/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>  
+<a href="https://marketingplatform.google.com/intl/ko/about/analytics/" target="_blank"><img src="https://img.shields.io/badge/-Analytics-E37400?style=flat-square&logo=GoogleAnalytics&logoColor=white"/></a>   -->
 
-## Done
+## Inspiring Books
+- [Hackers & Painters]
+- [Zero to One]
+- [The Ascent of Money]
+- [知的資本論]
+- [プロになるためのWeb技術入門]
+- [자바 웹을 다루는 기술]
+
+## Things I've Done
 
 - [RN Weather App]
 - [Flask Todo App]
