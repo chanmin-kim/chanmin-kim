@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ## Inspiring Books
 - [Hackers & Painters]
 - [Zero to One]
-- [The Ascent of Money]
 - [知的資本論]
 - [プロになるためのWeb技術入門]
 - [자바 웹을 다루는 기술]  
