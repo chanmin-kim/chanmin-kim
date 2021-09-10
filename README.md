@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/ko/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>  
 <a href="https://aws.amazon.com/ko/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc" target="_blank"><img src="https://img.shields.io/badge/-EC2-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="https://ubuntu.com/wsl" target="_blank"><img src="https://img.shields.io/badge/-WSL2-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
