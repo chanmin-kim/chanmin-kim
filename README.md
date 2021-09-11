@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 ## Inspiring Books
 - [Hackers & Painters]
 - [Zero to One]
+- [The Selfish Gene]
 - [知的資本論]
 - [プロになるためのWeb技術入門]
-- [자바 웹을 다루는 기술]  
+
 
 ## Tech Stacks
 
@@ -66,5 +67,5 @@ Here are some ideas to get you started:
    [知的資本論]: <http://www.yes24.com/Product/Goods/22862876?OzSrank=1>
    [プロになるためのWeb技術入門]: <http://www.yes24.com/Product/Goods/6721651?OzSrank=1>
    [자바 웹을 다루는 기술]: <http://www.yes24.com/Product/Goods/68371015>
-   [미친 SCM이 성공한다]: <http://www.yes24.com/Product/Goods/13947344?OzSrank=1>
+   [The Selfish Gene]: <http://www.yes24.com/Product/Goods/65067259?OzSrank=1>
 
