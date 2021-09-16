@@ -18,14 +18,22 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   -->
- 
 
-## Inspiring Books
+## Projects
+- [RN Weather App]
+- [Flask Todo App]
+- [Linkedin Clone]
+- [K-League Schedule]
+- [Spootify]
+- [Spring CRUD]
+
+
+<!-- ## Inspiring Books
 - [Hackers & Painters]
 - [Zero to One]
 - [The Selfish Gene]
 - [知的資本論]
-- [プロになるためのWeb技術入門]
+- [プロになるためのWeb技術入門] -->
 
 
 ## Tech Stacks
