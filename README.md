@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react%20router&logoColor=white"/></a>
 <a href="https://ko.redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>  
+<a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>  
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://expressjs.com/ko/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
