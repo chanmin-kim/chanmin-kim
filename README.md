@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://ko.javascript.info/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>
+<a href="https://nodejs.org/ko/" target="_blank"><img src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>  
 <a href="https://ko.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://reactrouter.com/" target="_blank"><img src="https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/></a>
