@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanmin-kim&show_icons=true&theme=dracula)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmin-kim&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   -->
 
-## Projects
+<!-- ## Projects
 - [RN Weather App]
 - [Flask Todo App]
 - [Linkedin Clone]
 - [K-League Schedule]
 - [Spootify]
-- [Spring CRUD]
+- [Spring CRUD] -->
 
 
 <!-- ## Inspiring Books
